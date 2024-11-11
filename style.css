@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+   }
+
+#principal{
+    font-size: xx-large;
+    color:#FFFFFF;
+    margin-left: 100px;
+    padding-top: 100px;
+    }
+
+#sub{
+    color:#FFFFFF;
+    margin-left: 100px;
+    padding: auto;  
+}
+
+#primeiro{
+    background-color:#303030;
+    padding-bottom: 50px;  
+}
+
+#segunda{
+    background-color: #F9F9F9;
+    display:grid;
+    grid-auto-flow:column;
+    columns:auto;
+    text-align: center;
+}
+
+.valores{
+    padding: 20px;
+    font-size: x-large;
+}
+
+#terceira{
+    background-color:#FFFFFF;
+    margin-top: 100px;
+    margin-left: 450px;
+    padding-top: 100px;
+    font-size: x-large;
+}
+
+#sala{
+    display: flex;
+    padding-left: 1000px;
+    position: relative; top:-400px;
+    height:550px;
+    width: 900px;
+    margin-top: 30px;
+   }
+
+#formulario{
+    text-align: center;
+    background-color:#303030;
+    margin: -350px;   
+}
+
+#titulo{
+font-size:32px;
+color: #FFFFFF;
+}
+
+input{
+width: 450px;
+height: 70px;
+left: 466px;
+background: #FFFFFF;
+margin:15px;
+border:0px;
+border-radius: 5px;
+padding-left: 10px;
+
+}
+
+button{
+font-size:large;
+background-color: #C07212;
+color:#FFFFFF;
+width: 286px;
+height: 74px;
+border:0px;
+border-radius: 5px;
+margin-bottom: 50px;
+font-weight: bolder;
+cursor:pointer;
+}
+
+button:hover{
+transform:translateY(-7px);
+transition-duration: 0.5s;
+
+}
+    
+
+
+
