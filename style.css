@@ -3,13 +3,14 @@
    }
 
 #principal{
-    font-size: xx-large;
+    font-size: 60px;
     color:#FFFFFF;
     margin-left: 100px;
     padding-top: 100px;
     }
 
 #sub{
+    font-size: 20px;
     color:#FFFFFF;
     margin-left: 100px;
     padding: auto;  
@@ -80,7 +81,7 @@ color:#FFFFFF;
 width: 286px;
 height: 74px;
 border:0px;
-border-radius: 5px;
+border-radius: 10px;
 margin-bottom: 50px;
 font-weight: bolder;
 cursor:pointer;
